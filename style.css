@@ -25,8 +25,8 @@ body{
 }
 
 .heading:hover{
-    background: #ff02ddd6 ;
-    box-shadow: 0 0 30px #ff02ddd6 ;
+    background: #ff02ddd7 ;
+    box-shadow: 0 0 30px #ff02ddd7 ;
 
 
 }
@@ -37,7 +37,7 @@ body{
     font-family: "Segoe UI", sans-serif;
     width: 340px;
     padding: 15px 10px;
-    border: solid#ff02ddd6;
+    border: solid#ff02ddd7;
     border-radius: 5px;
     margin: auto;
     -webkit-box-reflect: below 1px linear-gradient(transparent , rgba(255, 255, 255, 0.1));
@@ -46,20 +46,20 @@ body{
 }
 
 .datetime:hover{
-    background: #ff02ddd6 ;
-    box-shadow: 0 0 30px #ff02ddd6 ;
+    background: #ff02ddd7 ;
+    box-shadow: 0 0 30px #ff02ddd7 ;
 
 }
 
 .date{
-    font-size:20px ;
+    font-size:25px ;
     font-weight: 600;
     text-align: center;
     letter-spacing: 3px;
 }
 
 .time{
-    font-size: 60px;
+    font-size: 65px;
     display: flex;
     justify-content: center;
     align-items: center;
